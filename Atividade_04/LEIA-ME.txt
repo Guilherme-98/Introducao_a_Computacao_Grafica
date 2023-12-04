@@ -1,0 +1,14 @@
+Aluno: Guilherme Henrique Gonçalves Silva
+Matrícula: 201800560095
+
+Instruções de execução:
+
+* Apenas rode "python {nome_do_programa.py}" e siga as instruções no terminal;
+
+* As imagens de entrada devem ser colocadas na pasta 'imagem_pre_dct';
+
+* Foram 2 imagens para teste, 'digital.png' e 'retangulo.png' e essas imagens possuem tamanho reduzido, pois tamanhos maiores resultam numa execução muito demorada;
+
+* As imagens de saida serão exibidas na tela durante a execução e salvas dentro da pasta 'imagens_pos_dct';
+
+** Importante!! ** As imagens fornecidas como entrada devem possuir somente uma camada (grayscale)!!;

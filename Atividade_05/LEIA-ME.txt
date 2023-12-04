@@ -1,0 +1,14 @@
+Aluno: Guilherme Henrique Gonçalves Silva
+Matrícula: 201800560095
+
+Instruções de execução:
+
+* Apenas rode "python {nome_do_programa.py}" e siga as instruções no terminal;
+
+* As imagens de entrada devem ser colocadas na pasta 'rgb-imagens';
+
+* Foi utilizada uma imagem para teste, 'gato.png'.
+
+* A imagem de saida será exibidaa na tela durante a execução e salva dentro da pasta 'imagem_limiarizacao_global_simples' e 'imagem_limiarizacao_global_otima' dependendo do código a ser executado;
+
+** Importante!! ** As imagens fornecidas como entrada elas são convertidas para uma camada (grayscale)!!;

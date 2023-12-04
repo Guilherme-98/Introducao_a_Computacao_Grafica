@@ -1,0 +1,10 @@
+Aluno: Guilherme Henrique Gonçalves Silva
+Matrícula: 201800560095
+
+Instruções de execução:
+
+* Apenas rode "python {nome_do_programa.py}" e siga as instruções no terminal.
+
+* Em ambos os programas, as imagens em RGB para serem convertidas devem estar na pasta "rgb-imagens".
+
+* Nos arquivos CMYK.py e HSI.py as imagens convertidas são mostradas na tela quando o programa finalizar a execução.

@@ -1,0 +1,11 @@
+Aluno: Guilherme Henrique Gonçalves Silva
+Matrícula: 201800560095
+
+As imagens para equalização devem estar na pasta 'rgb-imagens'.
+
+Os histogramas são mostrados na tela conforme a execução do programa, sempre que aparecer a janela de um histograma, 
+ela deve ser fechada para o programa continuar a execução.
+
+A imagem equalizada é mostrada na tela, mas também é armazenada na pasta 'imagem_equalizada'.
+
+Execução: python histograma.py

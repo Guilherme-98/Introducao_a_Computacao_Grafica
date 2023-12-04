@@ -1,0 +1,11 @@
+Aluno: Guilherme Henrique Gonçalves Silva
+Matrícula: 201800560095
+
+Instruções de execução:
+
+* Apenas rode "python {nome_do_programa.py}" e siga as instruções no terminal.
+
+* No programa as imagens para serem selecionadas para receber os filtros devem estar na pasta "rgb-imagens".
+
+* As imagens selecionadas e aplicado os filtros selecionados são mostradas na tela quando o programa finalizar a execução e 
+salvas na pasta "filtros_selecionados".
